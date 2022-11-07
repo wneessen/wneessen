@@ -1,4 +1,4 @@
-### Hi there, I am Winni 👋
+### Hi there, I am [Winni](https://github.com/wneessen) 👋
 
 I work in InfoSec and do open source development in my spare time. Music-lover, Record-collector, Go-Enthusiast, Perl-veteran. Vir potens spiritus.
 
@@ -18,7 +18,7 @@ I work in InfoSec and do open source development in my spare time. Music-lover, 
 
 ### Github stats
 
-[![Winni's github stats](https://github-readme-stats.vercel.app/api?username=wneessen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishek07/github-readme-stats)
+[![Winni's github stats](https://github-readme-stats.vercel.app/api?username=wneessen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/wneessen)
 
 ### Connect with me
 
