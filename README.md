@@ -24,5 +24,5 @@ I work in InfoSec and do open source development in my spare time. Music-lover, 
 
 <a href="https://www.linkedin.com/in/winfriedneessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.twitter.com/wneessen" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a rel="me" href="https://s.pebcak.de/@winni"><img src="https://img.shields.io/mastodon/follow/109366248541208532?domain=https%3A%2F%2Fs.pebcak.de&style=social" alt="Mastodon" /></a>
+<a rel="me nofollow" href="https://s.pebcak.de/@winni"><img src="https://img.shields.io/mastodon/follow/109366248541208532?domain=https%3A%2F%2Fs.pebcak.de&style=social" alt="Mastodon" /></a>
 </p>
